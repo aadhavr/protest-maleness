@@ -1,6 +1,6 @@
 # Who Shows Up
 
-Code for "Who Shows Up: exam leaks, protest, and the visible maleness of South Asia's youth politics" (Aadhav Rajesh, 2026). The write-up is in `post/index.qmd` and at [aadhavrajesh.com](https://www.aadhavrajesh.com).
+Code for "Do exam leaks push young Indian Men toward the manosphere?" (Aadhav Rajesh, 2026). The write-up can be found at [aadhavrajesh.com](https://www.aadhavrajesh.com).
 
 The project asks three questions about competitive-exam leaks in India, 2023 to 2026:
 
@@ -80,6 +80,6 @@ Scripts 06, 10, 11, 13, 15, 19 and 21 are exploratory and not reported.
 
 ## Citation
 
-Rajesh, Aadhav. 2026. "Who Shows Up: Exam Leaks, Protest, and the Visible Maleness of South Asia's Youth Politics." https://www.aadhavrajesh.com
+Rajesh, Aadhav. 2026. "Do exam leaks push young Indian Men toward the manosphere?" https://www.aadhavrajesh.com/posts/protest-maleness
 
-Please also cite ACLED, the World Values Survey, Pew Research Center and the court data as their terms require.
+Please also cite ACLED, the World Values Survey, Pew Research Center, and the court data as their terms require.
