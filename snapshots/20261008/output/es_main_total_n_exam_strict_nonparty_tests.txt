@@ -1,0 +1,8 @@
+sample=main_total  week 0 = exam_date
+outcome=n_exam_strict_nonparty N=90,880 G=35 (clusters: state)
+pre-trend slope tot: -0.000041 per week (se 0.000027), p = 0.136
+pre-weeks jointly = week -1 tot: F(7,34) = 3.130, p = 0.012 (sensitive to one unusual week)
+MAIN tot: mean(post) - mean(pre) = 0.000341 (se 0.000148), p = 0.027
+Coefficients are re-centred on the pre-period mean (weeks -8..-1).
+CAUTION: only 35 clusters; CRV1 p-values can over-reject. Use the randomisation p-value (05b) for inference.
+Units: extra events per district-week per 1 applicant per 1,000 youth.

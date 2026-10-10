@@ -1,0 +1,4 @@
+(3) pre-period-only trends, outcome n_exam_strict_nonparty
+baseline DiD   b = 0.000382 (state-cluster p = 0.017)
+pre-trend-adj  b = 0.000729 (state-cluster p = 0.000)
+slopes per stack (per applicant per 1,000 youth per week): BIHAR_CONST_2023: 2.77e-05, BPSC_TRE3_2024: 1.06e-05, GPSSB_JRCLERK_2023: -4.47e-05, JSSC_CGL_2024: -4.52e-05, NEETUG_2026: 2.98e-05, UKSSSC_GRAD_2025: -7.72e-06, UPPSC_ROARO_2024: -1.78e-04, UP_CONST_2024: -5.64e-05

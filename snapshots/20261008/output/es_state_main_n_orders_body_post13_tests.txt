@@ -1,0 +1,9 @@
+sample=state_main  window -8..+13  week 0 = exam_date  stacks: GPSSB_JRCLERK_2023, BIHAR_CONST_2023, JSSC_CGL_2024, UP_CONST_2024, UPPSC_ROARO_2024, BPSC_TRE3_2024, UKPSC_PATWARI_2023
+outcome=n_orders_body N=5,005 G=35 (clusters: state)
+pre-trend slope tot: -0.000017 per week (se 0.000135), p = 0.903
+pre-weeks jointly = week -1 tot: F(7,34) = 705.718, p = 0.000 (sensitive to one unusual week)
+MAIN tot: mean(post) - mean(pre) = 0.001891 (se 0.001412), p = 0.189
+Coefficients are re-centred on the pre-period mean (weeks -8..-1).
+CAUTION: only 35 clusters; CRV1 p-values can over-reject. Use the randomisation p-value (05b) for inference.
+RANDOMISATION: DiD b = 0.001885; p = 0.126 (500 false-date draws; b above 98.8% of false estimates)  <- use this p-value
+Units: change in the outcome per state-week per 1 applicant per 1,000 youth.

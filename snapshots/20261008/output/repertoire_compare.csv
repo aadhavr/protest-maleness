@@ -1,0 +1,13 @@
+measure,scope,female_share,ci_lo,ci_hi,n,definition
+Court: all exam cases,all states,0.3258893280632411,0.3131110226236225,0.3389318058882331,5060,female petitioners / petitioners with known sex
+Court: exam body is respondent,all states,0.32989690721649484,0.278398731258973,0.3858277550984474,291,female petitioners / petitioners with known sex
+Court: all exam cases,exposed states,0.2829218106995885,0.25550276803468935,0.3120499987258178,972,female petitioners / petitioners with known sex
+Court: exam body is respondent,exposed states,0.26229508196721313,0.16838645195913188,0.38436980328441556,61,female petitioners / petitioners with known sex
+Street: exam protests (Women actor tag),all states,0.016281062553556127,0.010447369551016265,0.025288975997348258,1167,events with Women actor tag / events
+Street: exam protests (women mentioned in description),all states,0.018851756640959727,0.012481854699211172,0.028379009827638576,1167,events with women mentioned in description / events
+Street: all protests (Women actor tag),all states,0.08428738697716776,0.0821173960585536,0.08650931641821329,61492,events with Women actor tag / events
+Street: all protests (women mentioned in description),all states,0.11500683015676837,0.11250923086653775,0.11755252992738235,61492,events with women mentioned in description / events
+Street: exam protests (Women actor tag),exposed states,0.014184397163120567,0.006516531902285445,0.030597001548999525,423,events with Women actor tag / events
+Street: exam protests (women mentioned in description),exposed states,0.016548463356973995,0.00803858847709671,0.03376052388683408,423,events with women mentioned in description / events
+Street: all protests (Women actor tag),exposed states,0.059046359208706635,0.055564729413345414,0.06273165400397551,16631,events with Women actor tag / events
+Street: all protests (women mentioned in description),exposed states,0.10937406048944742,0.10472042959145343,0.1142081113331563,16631,events with women mentioned in description / events

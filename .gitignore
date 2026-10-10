@@ -1,0 +1,15 @@
+# data: raw data cannot be redistributed (ACLED terms); outputs are rebuilt by the scripts
+data/
+tests/fake_data/
+post/figures/
+
+# keys
+secrets.sh
+.env
+
+# environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/

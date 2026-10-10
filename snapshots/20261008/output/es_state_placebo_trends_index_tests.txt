@@ -1,0 +1,9 @@
+sample=state_placebo  window -8..+8  week 0 = exam_date  stacks: NEETUG_2024
+outcome=trends_index N=374 G=22 (clusters: state)
+pre-trend slope tot: 0.000164 per week (se 0.000177), p = 0.364
+pre-weeks jointly = week -1 tot: F(7,21) = 0.124, p = 0.996 (sensitive to one unusual week)
+MAIN tot: mean(post) - mean(pre) = 0.000339 (se 0.000365), p = 0.364
+Coefficients are re-centred on the pre-period mean (weeks -8..-1).
+CAUTION: only 22 clusters; CRV1 p-values can over-reject. Use the randomisation p-value (05b) for inference.
+RANDOMISATION: DiD b = 0.000339; p = 0.373 (500 false-date draws; b above 96.8% of false estimates)  <- use this p-value
+Units: change in the outcome per state-week per 1 applicant per 1,000 youth.

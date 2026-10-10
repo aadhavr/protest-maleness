@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+requests>=2.31
+pyreadstat>=1.2   # SPSS .sav survey files (23_surveys.py)
+truststore>=0.9   # system certificate store (censusindia.gov.in)
+openpyxl>=3.1     # Census .xlsx (xlrd for old .xls)
+geopandas>=0.14   # spatial district assignment (c10)
+pyarrow>=14       # court metadata parquet
+pyfixest>=0.25    # optional cross-check and Poisson (fepois)
